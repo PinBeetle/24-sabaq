@@ -1,0 +1,46 @@
+.container{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.h2{
+    color: rgb(180, 95, 77);
+font-family: Roboto;
+font-size: 23px;
+font-weight: 400;
+line-height: 39.2px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+
+.h{
+    color: rgb(180, 95, 77);
+font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+
+.p{
+    color: rgb(180, 95, 77);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d1{
+    display: flex;
+    justify-content: space-between;
+}
